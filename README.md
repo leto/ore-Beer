@@ -2,7 +2,7 @@
 
     perl -More::Beer
 
-INSTALLATION
+# Installation
 
 To install this module from source, run the following commands:
 
@@ -11,7 +11,7 @@ To install this module from source, run the following commands:
 	./Build test
 	./Build install
 
-Or use cpanminus
+Or use [cpanminus](http://cpanmin.us)
 
     cpanm ore::Beer
 
