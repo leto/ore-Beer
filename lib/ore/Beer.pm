@@ -3,21 +3,17 @@ package ore::Beer;
 use warnings;
 use strict;
 
-
-
-
 =head1 NAME
 
 ore::Beer - Add Beer To Perl With Ease
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
-
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
