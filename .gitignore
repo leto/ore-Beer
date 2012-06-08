@@ -8,3 +8,5 @@ Makefile.PL
 META.json
 META.yml
 ore-Beer-0.01.tar.gz
+MANIFEST.bak
+MANIFEST.SKIP.bak

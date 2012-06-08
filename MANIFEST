@@ -1,8 +1,8 @@
 Build.PL
-MANIFEST
-README
 lib/ore/Beer.pm
-t/00-load.t
 Makefile.PL
-META.yml
+MANIFEST
 META.json
+META.yml
+README.md
+t/00-load.t
