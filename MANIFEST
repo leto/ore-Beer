@@ -1,0 +1,8 @@
+Build.PL
+MANIFEST
+README
+lib/ore/Beer.pm
+t/00-load.t
+Makefile.PL
+META.yml
+META.json

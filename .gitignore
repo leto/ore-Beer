@@ -1,0 +1,10 @@
+_build
+MYMETA.json
+MYMETA.yml
+Build
+blib/
+Makefile.PL
+*.sw?
+META.json
+META.yml
+ore-Beer-0.01.tar.gz
