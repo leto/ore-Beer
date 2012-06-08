@@ -12,6 +12,11 @@ my $builder = Module::Build->new(
     },
     add_to_cleanup     => [ 'ore::Beer-*' ],
     configure_requires => { 'Module::Build'  => 0.38 },
+    meta_merge     => {
+        resources => {
+            repository  => 'http://github.com/leto/ore-Beer/tree/master'
+        },
+    },
 );
 
 $builder->create_build_script();
