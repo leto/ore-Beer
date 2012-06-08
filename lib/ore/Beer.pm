@@ -25,7 +25,7 @@ Jonathan "Duke" Leto, C<< <duke@leto.net> >>
 
 =head1 DEDICATION
 
-This module is lovingly dedicated to PDX Hackathon
+This module is lovingly dedicated to PDX.pm and PDX Hackathon
 L<https://twitter.com/#!/pdxhackathon>. Keep the fine Portland brews flowing.
 
 =head1 BUGS
