@@ -35,5 +35,5 @@ Copyright (C) 2012 Jonathan "Duke" Leto
 # License
 
 This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+under the same terms as Perl itself, but preferably with more beer.
 
